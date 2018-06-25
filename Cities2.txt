@@ -1,0 +1,5 @@
+WeatherInfo city Wrocław, description Niewielkie zachmurzenie, temp 21
+WeatherInfo city Warszawa, description Niewielkie zachmurzenie, temp 13
+WeatherInfo city Rzeszów, description Niewielkie zachmurzenie, temp 17
+WeatherInfo city Gdańsk, description Pogodnie, temp 18
+WeatherInfo city Katowice, description Niewielkie zachmurzenie, temp 18
